@@ -93,10 +93,6 @@ Add more high-quality TV shows
 
 ## How to Run This Project
 
-Clone the repository
-
-git clone 
-
 Install required libraries
 
 pip install pandas numpy matplotlib seaborn plotly
