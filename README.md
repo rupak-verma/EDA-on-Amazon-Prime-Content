@@ -69,15 +69,15 @@ Multivariate analysis
 
 ## Key Insights
 
-Majority of content consists of movies compared to TV shows
+Majority of content consists of movies compared to TV shows.
 
-Most content is concentrated in recent years
+Most content is concentrated in recent years.
 
-Movies with runtime between 80–120 minutes is the sweet spot for runtime
+Movies with runtime between 80–120 minutes is the sweet spot for runtime.
 
-Certain genres dominate the platform
+Genres like SciFi, War and Fantasy getiing more audience.
 
-Highly rated titles do not always have the highest vote counts
+Highly rated titles do not always have the highest vote counts.
 
 ## Business Recommendations
 
